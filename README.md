@@ -1,4 +1,4 @@
-# CIS 3319 Lab-2 - HMAC-SHA1
+# CIS 3319 Lab 2 - HMAC-SHA1
 
 ## Libraries Used
 1. socket - for socket programming to simulate the server and client
